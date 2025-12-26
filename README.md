@@ -3,7 +3,7 @@
 Ce projet couvre un ensemble complet de techniques de **vision par ordinateur** et d’**apprentissage automatique**, incluant :
 
 ### 🔹 Extraction et représentation des caractéristiques
-- Extraction de caractéristiques locales avec **SIFT** et **ORB**
+- Extraction de caractéristiques locales avec **SIFT**
 - Modélisation visuelle par **Bag of Visual Words (BoVW)**
 - Réduction de dimension via **l’Analyse en Composantes Principales (PCA)**
 
