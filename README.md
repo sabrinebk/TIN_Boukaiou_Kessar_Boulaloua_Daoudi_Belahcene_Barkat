@@ -33,13 +33,12 @@ Ce projet couvre un ensemble complet de techniques de **vision par ordinateur** 
 ├── Pre-traitement-Sift-Boww-PCA.zip
 ├── pr-traitement-sift-boww-pca.ipynb
 │
-├── modeles_de_classification/
-│
-├── Naive-Bayes.ipynb
-├── RandomForest.ipynb
-├── decisionTrees.ipynb
-├── gradientboostfinal2-0.ipynb
-├── model-knn.ipynb
-└── modele-mlp-final-tin.ipynb
+└── modeles_de_classification/
+    ├── Naive-Bayes.ipynb
+    ├── RandomForest.ipynb
+    ├── decisionTrees.ipynb
+    ├── gradientboostfinal2-0.ipynb
+    ├── model-knn.ipynb
+    └── modele-mlp-final-tin.ipynb
 
 ```
