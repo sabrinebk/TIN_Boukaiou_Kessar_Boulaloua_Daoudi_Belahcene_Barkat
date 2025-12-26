@@ -32,6 +32,7 @@ Ce projet couvre un ensemble complet de techniques de **vision par ordinateur** 
 │
 ├── Pre-traitement-Sift-Boww-PCA.zip
 ├── pr-traitement-sift-boww-pca.ipynb
+├── Rapport_TIN_Boukaiou_Kessar_Boulaloua_Daoudi_Belahcene_Barkat.pdf  
 │
 └── modeles_de_classification/
     ├── Naive-Bayes.ipynb
